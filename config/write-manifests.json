@@ -1,4 +1,4 @@
 {
   "$schema": "https://dev.office.com/json-schemas/spfx-build/write-manifests.schema.json",
-  "cdnBasePath": "https://datacomsouthislandcdn.blob.core.windows.net/modern-sp-mega-menu"
+  "cdnBasePath": "<!-- PATH TO CDN -->"
 }
