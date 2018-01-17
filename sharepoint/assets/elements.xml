@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="AppFooter2React"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="eb652cd5-76b6-4ea0-8446-2c4cdd0855f6"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

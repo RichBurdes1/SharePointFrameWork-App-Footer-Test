@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "app-footer-2-react-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/appFooter2React/AppFooter2ReactApplicationCustomizer.js",
+          "manifest": "./src/extensions/appFooter2React/AppFooter2ReactApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AppFooter2ReactApplicationCustomizerStrings": "lib/extensions/appFooter2React/loc/{locale}.js"
+  }
+}

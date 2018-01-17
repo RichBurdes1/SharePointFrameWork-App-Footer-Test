@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "app-footer-2-react",
+    "libraryId": "3701b515-60ab-4a6e-86cc-8465b812dbd7",
+    "environment": "spo"
+  }
+}
